@@ -1,6 +1,6 @@
 # MCP Client Chatbot
 
-**English** | [한국어](./docs/ko.md)
+**English** | [한국어](./docs/ko.md) | [العربية](./README.ar.md)
 
 [![Local First](https://img.shields.io/badge/Local-First-blueviolet)](#)
 [![MCP Supported](https://img.shields.io/badge/MCP-Supported-00c853)](https://modelcontextprotocol.io/introduction)
